@@ -11,3 +11,5 @@
 [![Build_CI - Linux](https://github.com/Balaveeraseshu/M2_Traffic_Light_Controller/actions/workflows/Linux.yml/badge.svg)](https://github.com/Balaveeraseshu/M2_Traffic_Light_Controller/actions/workflows/Linux.yml)
 
 [![Bulid CI - windows](https://github.com/Balaveeraseshu/M2_Traffic_Light_Controller/actions/workflows/Windows.yml/badge.svg)](https://github.com/Balaveeraseshu/M2_Traffic_Light_Controller/actions/workflows/Windows.yml)
+
+[![Git Inspector](https://github.com/Balaveeraseshu/M2_Traffic_Light_Controller/actions/workflows/Git%20Inspector.yml/badge.svg)](https://github.com/Balaveeraseshu/M2_Traffic_Light_Controller/actions/workflows/Git%20Inspector.yml)
