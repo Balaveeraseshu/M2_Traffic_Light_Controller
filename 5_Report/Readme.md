@@ -1,3 +1,5 @@
+# M2_Traffic_Light_Controller
+
 # Requirements
 ## Introduction
 The use of personal vehicles is very common now a days and a result, the number of vehicles on the roads are exponentially increasing. Roads without any supervision or guidance can lead in to traffic congestions and accidents.
