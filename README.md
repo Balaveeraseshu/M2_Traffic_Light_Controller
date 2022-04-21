@@ -21,7 +21,7 @@ Folder             | Description
 `1_Requirements`   | Documents containing requirements 
 `2_Design`         | Documents specifying design details of circuit
 `3_Implementation` | All required codes and documentation
-`4_TestCases`      | low and High level Requirements
+`4_TestPlanAndOutput`      | low and High level Requirements
 `5_Report`         | Report all the details about project
 `6_Output`         | Documents with simulation Images
 
